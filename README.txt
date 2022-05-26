@@ -4,6 +4,7 @@ numpy, deap, torch, sklearn, random, matplotlib, pandas
 NN.py contains the function for the base model which it constructs using the model class contained in model.py
 retrain.py contains the function for the pruned model and loads the state of the model created by NN.py
 
+*** Due to the dataset being private, it has been removed in this repository ***
 
 
 
